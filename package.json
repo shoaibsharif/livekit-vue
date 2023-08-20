@@ -1,0 +1,13 @@
+{
+  "name": "livekit-vue-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm -r --parallel --filter='./packages/**' run dev",
+    "build": "pnpm -r --parallel --filter='./packages/**' run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
