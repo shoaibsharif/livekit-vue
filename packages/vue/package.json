@@ -1,0 +1,28 @@
+{
+  "name": "livekit-vue",
+  "version": "0.0.1",
+  "description": "Livekit Vue component",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoaibsharif/livekit-vue.git"
+  },
+  "author": "Shoaib Sharif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shoaibsharif/livekit-vue/issues"
+  },
+  "homepage": "https://github.com/shoaibsharif/livekit-vue#readme",
+  "devDependencies": {
+    "@types/node": "20.5.0",
+    "@vitejs/plugin-vue": "^4.3.1",
+    "vite": "^4.4.9"
+  },
+  "peerDependencies": {
+    "livekit-client": "1.12.3",
+    "vue": "^3.3.4"
+  }
+}
