@@ -19,5 +19,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["vue/", "src/hooks", "src"]
+  "include": ["src/hooks", "src"]
 }
